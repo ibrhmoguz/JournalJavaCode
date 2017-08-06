@@ -1,0 +1,13 @@
+com\crossover\trial\journals\ApplicationTest.class
+com\crossover\trial\journals\service\UserDetailsServiceTest.class
+com\crossover\trial\journals\service\DirectoryServiceTest.class
+com\crossover\trial\journals\controller\PublisherControllerTest.class
+com\crossover\trial\journals\rest\JournalRestServiceTest.class
+com\crossover\trial\journals\service\FileServiceTest.class
+com\crossover\trial\journals\controller\JournalControllerTest.class
+com\crossover\trial\journals\controller\PublisherControllerTest$MockSecurityContext.class
+com\crossover\trial\journals\rest\CategoryRestServiceTest.class
+com\crossover\trial\journals\service\UserServiceTest.class
+com\crossover\trial\journals\notify\MailNotificationServiceTest.class
+com\crossover\trial\journals\service\JournalServiceTest.class
+com\crossover\trial\journals\service\SubscriptionServiceTest.class
